@@ -4,8 +4,7 @@
  * Created on: March 23 2018
  * Created for: ICS4U
  * This program generates a list of 250 random values and sorts them. It then
- * 		allows the user to input a number and searches for that number in the
- * 		list
+ * allows the user to input a number and searches for that number in the list
  *
  ****************************************************************************/
 
